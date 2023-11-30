@@ -1,0 +1,35 @@
+{
+    "skills": [
+      {
+        "id": 1,
+        "category": "Programming Languages",
+        "list": ["JavaScript", "C#"]
+      },
+      {
+        "id": 2,
+        "category": "Web Development",
+        "list": ["HTML", "CSS", "React", "Node.js"]
+      },
+      {
+        "id": 3,
+        "category": "Database Management",
+        "list": ["MySQL"]
+      },
+      {
+        "id": 4,
+        "category": "Version Control",
+        "list": ["Git", "GitHub"]
+      },
+      {
+        "id": 5,
+        "category": "Tools",
+        "list": ["VSCode", "MYSQL Workbench", "Postman"]
+      },
+      {
+        "id": 6,
+        "category": "Design",
+        "list": ["Adobe Illustrator", "Adobe Photoshop", "Procreate"]
+      }
+    ]
+  }
+  
